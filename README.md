@@ -22,9 +22,9 @@
 
 🎓 **Engineering Student** at **University of Engineering and Technology, VNU Hanoi**
 
-🔬 **Research Focus:** Deep Reinforcement Learning | Remote Sensing | Environmental AI
+🔬 **Research Focus:** Deep Reinforcement Learning | Computer Vision | NLP | Remote Sensing
 
-🎯 **Current Project:** Wildfire Detection using Deep RL (Bachelor's Thesis)
+🎯 **Current Project:** Wildfire Detection using Deep RL (Graduation Thesis)
 
 📍 **Location:** Hanoi, Vietnam 🇻🇳
 
@@ -34,7 +34,7 @@
   
 | 🎓 Education | 🔬 Research Focus | 📍 Location |
 |:------------:|:-----------------:|:-----------:|
-| UET - VNU Hanoi | Deep RL + Remote Sensing | Hanoi, Vietnam 🇻🇳 |
+| UET - VNU Hanoi | Deep RL + CV + NLP | Hanoi, Vietnam 🇻🇳 |
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 Deep RL for Wildfire Detection | Bachelor's Thesis
+### 🔥 Deep RL for Wildfire Detection | Graduation Thesis
 
 <div align="center">
 
@@ -182,7 +182,7 @@
 
 | Achievement | Metric | Description |
 |:-----------:|:------:|:------------|
-| 🎓 **Bachelor's Thesis** | `2024-2025` | Deep RL for Wildfire Detection |
+| 🎓 **Graduation Thesis** | `2024-2025` | Deep RL for Wildfire Detection |
 | 📈 **Best AUC Score** | `98%` | A3C algorithm performance |
 | 🧠 **RL Implementations** | `11` | Comprehensive algorithm suite |
 | 🔥 **Lowest MSE** | `0.007` | SAC algorithm accuracy |

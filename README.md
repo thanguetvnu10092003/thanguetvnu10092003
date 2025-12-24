@@ -1,97 +1,276 @@
-# Hi there! I'm Thang 👋
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Enthusiast+🧠;Reinforcement+Learning+Researcher+🎮;Geospatial+AI+Developer+🌍)
+# 👋 Hi, I'm **Thang Le Toan**
 
-[![GitHub followers](https://img.shields.io/github/followers/thanguetvnu10092003?style=social)](https://github.com/thanguetvnu10092003)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:toanthangvietduc@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+Deep+Reinforcement+Learning+Researcher;%F0%9F%9B%B0%EF%B8%8F+Geospatial+AI+%7C+Remote+Sensing;%F0%9F%8E%93+UET+-+VNU+Hanoi" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thắng_Lê_Toàn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BA%AFng-l%C3%AA-to%C3%A0n-6012b22b4)
+[![GitHub](https://img.shields.io/badge/GitHub-thanguetvnu10092003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanguetvnu10092003)
+[![Email](https://img.shields.io/badge/Gmail-toanthangvietduc-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanthangvietduc@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=thanguetvnu10092003&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 🧑‍💻 About Me
 
-🏫 **Bachelor Student** at University of Engineering and Technology, VNU Hanoi  
-🔬 **Research Focus:** Deep Reinforcement Learning for Remote Sensing & Environmental Applications  
-🌏 **Interest:** Applying AI to solve real-world environmental challenges  
-📍 **Location:** Hanoi, Vietnam
+```python
+class ThangLeToan:
+    def __init__(self):
+        self.name = "Lê Toàn Thắng"
+        self.university = "UET - VNU Hanoi"
+        self.role = "AI Research Student"
+        self.interests = ["Deep Reinforcement Learning", 
+                          "Remote Sensing", 
+                          "Environmental AI"]
+        self.current_focus = "Wildfire Detection using Deep RL"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's connect 🚀")
 
----
-
-## 🔥 Featured Project
-
-### 🛰️ [Deep RL for Wildfire Detection](https://github.com/Geospatial-Technology-Lab/25-26_HKI_DATN_21021441_ThangLT)
+me = ThangLeToan()
+me.say_hi()
+```
 
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+| 🎓 Education | 🔬 Research Focus | 📍 Location |
+|:------------:|:-----------------:|:-----------:|
+| UET - VNU Hanoi | Deep RL + Remote Sensing | Hanoi, Vietnam 🇻🇳 |
+
 </div>
 
-> 🎯 A comprehensive framework applying **11 Reinforcement Learning algorithms** for wildfire hotspot detection using satellite thermal imagery and multi-source geospatial data.
-
-**Key Features:**
-- 🧠 Implemented: A3C, A2C, PPO, DQN, SAC, DDPG, VPG, Q-Learning, MCTS
-- 🖼️ CNN + Intrinsic Curiosity Module (ICM) for enhanced spatial learning
-- 📊 Best result: **98% AUC** with A3C algorithm
-- 🗺️ GeoTIFF prediction maps output
-
 ---
 
-## 💻 Tech Stack
+## � Featured Projects
 
 <div align="center">
 
-### Languages & Frameworks
+<a href="https://github.com/Geospatial-Technology-Lab/25-26_HKI_DATN_21021441_ThangLT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geospatial-Technology-Lab&repo=25-26_HKI_DATN_21021441_ThangLT&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+</a>
+
+</div>
+
+<br/>
+
+### 🔥 Deep RL for Wildfire Detection | Bachelor's Thesis
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-✅_Completed-00C853?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![AUC](https://img.shields.io/badge/Best_AUC-98%25-FFD700?style=flat-square)
+
+</div>
+
+> 🛰️ A comprehensive framework applying **11 Reinforcement Learning algorithms** for wildfire hotspot detection using satellite thermal imagery
+
+<details>
+<summary>📊 <b>Click to see Performance Results</b></summary>
+
+| Algorithm | AUC | F1-Score | Description |
+|:---------:|:---:|:--------:|:------------|
+| **A3C** | 🥇 98% | 0.82 | Best overall performance |
+| **DDPG** | 🥈 97% | 0.67 | Strong continuous control |
+| **SAC** | 🥉 95% | 0.58 | Lowest MSE (0.007) |
+| VPG | 96% | 0.60 | Vanilla Policy Gradient |
+| PPO | 87% | 0.33 | Proximal Policy Optimization |
+
+</details>
+
+**✨ Key Highlights:**
+- 🧠 Implemented 11 RL algorithms: A3C, SAC, PPO, DQN, DDPG, VPG, A2C, Q-Learning, VI, PI, MCTS
+- 🖼️ CNN + **Intrinsic Curiosity Module (ICM)** for enhanced exploration
+- 🗺️ GeoTIFF prediction maps with real satellite data
+
+---
+
+### 🎮 Other Notable Projects
+
+<div align="center">
+
+<a href="https://github.com/thanguetvnu10092003/A3C-MsPacmanDeterministic-v0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanguetvnu10092003&repo=A3C-MsPacmanDeterministic-v0&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" />
+</a>
+<a href="https://github.com/thanguetvnu10092003/DRL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanguetvnu10092003&repo=DRL&theme=radical&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/thanguetvnu10092003/Dictionary-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanguetvnu10092003&repo=Dictionary-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=FBBF24&icon_color=FBBF24" />
+</a>
+
+</div>
+
+---
+
+## �️ Tech Stack
+
+<div align="center">
+
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
+
+### 🌍 Geospatial & Data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
-
-### Geospatial & Remote Sensing
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Rasterio](https://img.shields.io/badge/Rasterio-4B8BBE?style=for-the-badge&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logoColor=white)
 
-### Tools & Platforms
+### ⚡ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanguetvnu10092003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanguetvnu10092003&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanguetvnu10092003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanguetvnu10092003&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=thanguetvnu10092003&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanguetvnu10092003&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F472B6&currStreakLabel=6366F1)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanguetvnu10092003&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=F472B6&point=FFFFFF)](https://github.com/thanguetvnu10092003)
+
+</div>
+
+## 🏆 Achievements & Awards
+
+<div align="center">
+
+### 🎓 Scholarships & Honors
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/fluency/48/medal.png" width="40"/>
+<br/><b>2025</b>
+</td>
+<td>
+<b>🥇 Excellence Scholarship</b><br/>
+<sub>University of Engineering and Technology - Semester 1</sub><br/>
+<code>Outstanding Academic Achievement</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/fluency/48/medal.png" width="40"/>
+<br/><b>2024</b>
+</td>
+<td>
+<b>🥇 Excellence Scholarship</b><br/>
+<sub>University of Engineering and Technology - Semester 2</sub><br/>
+<code>Outstanding Academic Achievement</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="80">
+<img src="https://img.icons8.com/fluency/48/medal2.png" width="40"/>
+<br/><b>2024</b>
+</td>
+<td>
+<b>🥈 Merit Scholarship</b><br/>
+<sub>University of Engineering and Technology - Semester 1</sub><br/>
+<code>Excellent Academic Performance</code>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📜 Certifications
 
-- 🎖️ **Bachelor's Thesis:** Deep Reinforcement Learning for Wildfire Detection
-- 🔬 **Research:** Remote Sensing + AI for Environmental Monitoring
-- 📈 **Result:** Achieved 98% AUC in wildfire detection using A3C
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/british-council.png" width="40"/>
+<br/><b>2024</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/IELTS-7.0-DC143C?style=for-the-badge&logo=british-council&logoColor=white"/>
+<br/>
+<sub>International English Language Testing System</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/udemy.png" width="40"/>
+<br/><b>2024</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Machine_Learning_A--Z-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+<br/>
+<sub>Comprehensive ML course covering regression, classification, clustering, and more</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/udemy.png" width="40"/>
+<br/><b>2023</b>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Artificial_Intelligence_A--Z-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+<br/>
+<sub>Deep Learning, Reinforcement Learning, and AI fundamentals</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔬 Research Achievements
+
+<div align="center">
+
+| � Achievement | 📊 Metric | 📝 Description |
+|:-------------:|:--------:|:--------------|
+| 🎓 **Bachelor's Thesis** | `2024-2025` | Deep RL for Wildfire Detection |
+| � **Best AUC Score** | `98%` | A3C algorithm performance |
+| 🧠 **RL Implementations** | `11` | Comprehensive algorithm suite |
+| 🔥 **Lowest MSE** | `0.007` | SAC algorithm accuracy |
+| 🗺️ **GeoTIFF Maps** | `Real Data` | Satellite thermal imagery |
+
+</div>
+
 
 ---
 
@@ -99,8 +278,13 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-toanthangvietduc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanthangvietduc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-thanguetvnu10092003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanguetvnu10092003)
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BA%AFng-l%C3%AA-to%C3%A0n-6012b22b4/)
+[![Email](https://img.shields.io/badge/-Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanthangvietduc@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanguetvnu10092003)
 
 </div>
 
@@ -108,8 +292,10 @@
 
 <div align="center">
 
-### 💡 *"Leveraging AI to understand and protect our planet"*
+### 💡 _"Leveraging AI to understand and protect our planet"_ 🌍
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>

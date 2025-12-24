@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Thang Le Toan**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Deep+Reinforcement+Learning+Researcher;Geospatial+AI+%7C+Remote+Sensing;UET+-+VNU+Hanoi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+Researcher;Geospatial+AI+%7C+Remote+Sensing;UET+-+VNU+Hanoi" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-🎓 **Bachelor Student** at **University of Engineering and Technology, VNU Hanoi**
+🎓 **Engineering Student** at **University of Engineering and Technology, VNU Hanoi**
 
 🔬 **Research Focus:** Deep Reinforcement Learning | Remote Sensing | Environmental AI
 

@@ -2,15 +2,15 @@
 
 # 👋 Hi, I'm **Thang Le Toan**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%A0+Deep+Reinforcement+Learning+Researcher;%F0%9F%9B%B0%EF%B8%8F+Geospatial+AI+%7C+Remote+Sensing;%F0%9F%8E%93+UET+-+VNU+Hanoi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Deep+Reinforcement+Learning+Researcher;Geospatial+AI+%7C+Remote+Sensing;UET+-+VNU+Hanoi" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thắng_Lê_Toàn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BA%AFng-l%C3%AA-to%C3%A0n-6012b22b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thắng_Lê_Toàn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BA%AFng-l%C3%AA-to%C3%A0n-6012b22b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-thanguetvnu10092003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanguetvnu10092003)
 [![Email](https://img.shields.io/badge/Gmail-toanthangvietduc-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toanthangvietduc@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=thanguetvnu10092003&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=thanguetvnu10092003&label=Profile%20Views&color=6366F1&style=for-the-badge)
 
 </div>
 
@@ -46,21 +46,13 @@ me.say_hi()
 
 ---
 
-## � Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Geospatial-Technology-Lab/25-26_HKI_DATN_21021441_ThangLT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Geospatial-Technology-Lab&repo=25-26_HKI_DATN_21021441_ThangLT&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-</div>
-
-<br/>
+## 🚀 Featured Projects
 
 ### 🔥 Deep RL for Wildfire Detection | Bachelor's Thesis
 
 <div align="center">
+
+[![Thesis Repo](https://img.shields.io/badge/🔗_Repository-Geospatial--Technology--Lab-6366F1?style=for-the-badge)](https://github.com/Geospatial-Technology-Lab/25-26_HKI_DATN_21021441_ThangLT)
 
 ![Status](https://img.shields.io/badge/Status-✅_Completed-00C853?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,28 +87,17 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/thanguetvnu10092003/A3C-MsPacmanDeterministic-v0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanguetvnu10092003&repo=A3C-MsPacmanDeterministic-v0&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" />
-</a>
-<a href="https://github.com/thanguetvnu10092003/DRL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanguetvnu10092003&repo=DRL&theme=radical&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/thanguetvnu10092003/Dictionary-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thanguetvnu10092003&repo=Dictionary-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=FBBF24&icon_color=FBBF24" />
-</a>
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**A3C-MsPacman**](https://github.com/thanguetvnu10092003/A3C-MsPacmanDeterministic-v0) | A3C algorithm on MsPacman game | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**DRL**](https://github.com/thanguetvnu10092003/DRL) | Deep Reinforcement Learning projects | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [**Dictionary-App**](https://github.com/thanguetvnu10092003/Dictionary-App) | Dictionary application | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 </div>
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -150,14 +131,16 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanguetvnu10092003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanguetvnu10092003&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+<a href="https://github.com/thanguetvnu10092003">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanguetvnu10092003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thanguetvnu10092003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thanguetvnu10092003&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F472B6&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thanguetvnu10092003&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F472B6&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
@@ -167,47 +150,19 @@ me.say_hi()
 
 </div>
 
-## 🏆 Achievements & Awards
+---
 
-<div align="center">
+## 🏆 Achievements & Awards
 
 ### 🎓 Scholarships & Honors
 
-<table>
-<tr>
-<td align="center" width="80">
-<img src="https://img.icons8.com/fluency/48/medal.png" width="40"/>
-<br/><b>2025</b>
-</td>
-<td>
-<b>🥇 Excellence Scholarship</b><br/>
-<sub>University of Engineering and Technology - Semester 1</sub><br/>
-<code>Outstanding Academic Achievement</code>
-</td>
-</tr>
-<tr>
-<td align="center" width="80">
-<img src="https://img.icons8.com/fluency/48/medal.png" width="40"/>
-<br/><b>2024</b>
-</td>
-<td>
-<b>🥇 Excellence Scholarship</b><br/>
-<sub>University of Engineering and Technology - Semester 2</sub><br/>
-<code>Outstanding Academic Achievement</code>
-</td>
-</tr>
-<tr>
-<td align="center" width="80">
-<img src="https://img.icons8.com/fluency/48/medal2.png" width="40"/>
-<br/><b>2024</b>
-</td>
-<td>
-<b>🥈 Merit Scholarship</b><br/>
-<sub>University of Engineering and Technology - Semester 1</sub><br/>
-<code>Excellent Academic Performance</code>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| Year | Award | Institution |
+|:----:|:------|:------------|
+| 🏅 **2025** | **Excellence Scholarship** - Outstanding Academic Achievement | UET - VNU (Semester 1) |
+| 🏅 **2024** | **Excellence Scholarship** - Outstanding Academic Achievement | UET - VNU (Semester 2) |
+| 🥈 **2024** | **Merit Scholarship** - Excellent Academic Performance | UET - VNU (Semester 1) |
 
 </div>
 
@@ -217,41 +172,11 @@ me.say_hi()
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/48/british-council.png" width="40"/>
-<br/><b>2024</b>
-</td>
-<td>
-<img src="https://img.shields.io/badge/IELTS-7.0-DC143C?style=for-the-badge&logo=british-council&logoColor=white"/>
-<br/>
-<sub>International English Language Testing System</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/48/udemy.png" width="40"/>
-<br/><b>2024</b>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Machine_Learning_A--Z-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-<br/>
-<sub>Comprehensive ML course covering regression, classification, clustering, and more</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/48/udemy.png" width="40"/>
-<br/><b>2023</b>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Artificial_Intelligence_A--Z-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-<br/>
-<sub>Deep Learning, Reinforcement Learning, and AI fundamentals</sub>
-</td>
-</tr>
-</table>
+| Year | Certification | Issuer |
+|:----:|:--------------|:-------|
+| 🎯 **2024** | ![IELTS](https://img.shields.io/badge/IELTS-7.0-DC143C?style=flat-square) | International English Language Testing System |
+| 🤖 **2024** | ![ML](https://img.shields.io/badge/Machine_Learning_A--Z-Completed-A435F0?style=flat-square&logo=udemy) | Udemy |
+| 🧠 **2023** | ![AI](https://img.shields.io/badge/Artificial_Intelligence_A--Z-Completed-A435F0?style=flat-square&logo=udemy) | Udemy |
 
 </div>
 
@@ -261,16 +186,15 @@ me.say_hi()
 
 <div align="center">
 
-| � Achievement | 📊 Metric | 📝 Description |
-|:-------------:|:--------:|:--------------|
+| Achievement | Metric | Description |
+|:-----------:|:------:|:------------|
 | 🎓 **Bachelor's Thesis** | `2024-2025` | Deep RL for Wildfire Detection |
-| � **Best AUC Score** | `98%` | A3C algorithm performance |
+| 📈 **Best AUC Score** | `98%` | A3C algorithm performance |
 | 🧠 **RL Implementations** | `11` | Comprehensive algorithm suite |
 | 🔥 **Lowest MSE** | `0.007` | SAC algorithm accuracy |
 | 🗺️ **GeoTIFF Maps** | `Real Data` | Satellite thermal imagery |
 
 </div>
-
 
 ---
 

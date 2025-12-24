@@ -18,23 +18,17 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class ThangLeToan:
-    def __init__(self):
-        self.name = "Lê Toàn Thắng"
-        self.university = "UET - VNU Hanoi"
-        self.role = "AI Research Student"
-        self.interests = ["Deep Reinforcement Learning", 
-                          "Remote Sensing", 
-                          "Environmental AI"]
-        self.current_focus = "Wildfire Detection using Deep RL"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's connect 🚀")
+<div align="center">
 
-me = ThangLeToan()
-me.say_hi()
-```
+🎓 **Bachelor Student** at **University of Engineering and Technology, VNU Hanoi**
+
+🔬 **Research Focus:** Deep Reinforcement Learning | Remote Sensing | Environmental AI
+
+🎯 **Current Project:** Wildfire Detection using Deep RL (Bachelor's Thesis)
+
+📍 **Location:** Hanoi, Vietnam 🇻🇳
+
+</div>
 
 <div align="center">
   
@@ -90,7 +84,7 @@ me.say_hi()
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**A3C-MsPacman**](https://github.com/thanguetvnu10092003/A3C-MsPacmanDeterministic-v0) | A3C algorithm on MsPacman game | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**DRL**](https://github.com/thanguetvnu10092003/DRL) | Deep Reinforcement Learning projects | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [**EmbeddedProject**](https://github.com/thanguetvnu10092003/EmbeddedProject) | Embedded Systems Project | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
 | [**Dictionary-App**](https://github.com/thanguetvnu10092003/Dictionary-App) | Dictionary application | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 </div>

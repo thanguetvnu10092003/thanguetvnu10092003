@@ -140,7 +140,7 @@ me.say_hi()
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thanguetvnu10092003&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F472B6&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=thanguetvnu10092003&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 

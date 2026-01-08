@@ -77,6 +77,42 @@
 
 ---
 
+### 📚 PDF RAG Chatbot with DeepSeek OCR
+
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/🤗_Live_Demo-Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/toanthangle/pdf-rag-deepseek-ocr-chatbot)
+[![Repo](https://img.shields.io/badge/🔗_Repository-DeepSeek--Simple--Chatbot-6366F1?style=for-the-badge)](https://github.com/thanguetvnu10092003/DeepSeek-Simple-Chatbot)
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-UI-FF6F00?style=flat-square&logo=gradio&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=flat-square)
+
+</div>
+
+> 🤖 An intelligent chatbot that enables conversations with PDF documents and images using **RAG (Retrieval-Augmented Generation)** and **DeepSeek OCR**
+
+<details>
+<summary>🔍 <b>Click to see Key Features</b></summary>
+
+| Feature | Description |
+|:--------|:------------|
+| 📁 **Multi-file Upload** | Drag and drop multiple PDF/image files at once |
+| 🧠 **Smart Query Classification** | Auto-optimizes retrieval based on query type |
+| 🔄 **Dual Vectorstore** | Uses 2 chunk sizes (500 & 1500) for different queries |
+| 🔍 **Hybrid Search** | Combines semantic search + BM25 |
+| 👁️ **OCR Support** | Process scanned PDFs and images via DeepSeek OCR |
+
+</details>
+
+**✨ Key Highlights:**
+- 🔍 Hybrid search combining **semantic embeddings + BM25** for accurate retrieval
+- 🧠 Intelligent query classification for optimized responses
+- 👁️ **DeepSeek OCR** integration for scanned documents & images
+- 🚀 Deployed on **Hugging Face Spaces** - [Try it live!](https://huggingface.co/spaces/toanthangle/pdf-rag-deepseek-ocr-chatbot)
+
+---
+
 ### 🎮 Other Notable Projects
 
 <div align="center">
